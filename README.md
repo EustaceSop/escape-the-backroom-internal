@@ -188,5 +188,6 @@ All features are implemented and the DLL builds successfully.
 Pull requests welcome.
 
 
-
-# GUI Using https://github.com/noahware/rendezvous
+# Thanks for
+## GUI Using https://github.com/noahware/rendezvous
+## Base https://github.com/FlatManDud/unreal-engine-base-internal
